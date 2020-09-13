@@ -1,0 +1,5 @@
+plain:                     BLEU: 35.49448
+multi_encoder:             BLEU: 32.92713
+with_contex:               BLEU: 0
+contex_lstm:               BLEU: 0
+contex_lstm_multi_encoder: BLEU: 0

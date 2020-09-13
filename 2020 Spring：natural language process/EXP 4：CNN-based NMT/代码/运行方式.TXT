@@ -1,0 +1,10 @@
+训练模型：
+bash ./run.sh train plain
+bash ./run.sh train_with_contex_lstm contex_lstm
+bash ./run.sh train_with_contex_cnn contex_cnn
+bash ./run.sh train_multi_encoder multi_encoder
+测试模型：
+bash ./run.sh test plain
+bash ./run.sh test_with_contex_cnn contex_cnn
+bash ./run.sh test_with_contex_lstm contex_lstm
+bash ./run.sh test_multi_encoder multi_encoder
