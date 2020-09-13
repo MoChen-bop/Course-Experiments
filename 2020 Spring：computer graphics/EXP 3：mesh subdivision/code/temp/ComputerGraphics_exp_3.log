@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  main.cpp
+D:\Code\C\Visual Studio 2019\ComputerGraphics_exp_3\source\ComputerGraphics_exp_3\mesh.h(21,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Code\C\Visual Studio 2019\ComputerGraphics_exp_3\source\ComputerGraphics_exp_3\mesh.h(22,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Code\C\Visual Studio 2019\ComputerGraphics_exp_3\source\ComputerGraphics_exp_3\mesh.h(23,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Code\C\Visual Studio 2019\ComputerGraphics_exp_3\source\ComputerGraphics_exp_3\mesh.h(44,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Code\C\Visual Studio 2019\ComputerGraphics_exp_3\source\ComputerGraphics_exp_3\mesh.h(45,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Code\C\Visual Studio 2019\ComputerGraphics_exp_3\source\ComputerGraphics_exp_3\mesh.h(46,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Code\C\Visual Studio 2019\ComputerGraphics_exp_3\source\ComputerGraphics_exp_3\mesh.h(47,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Code\C\Visual Studio 2019\ComputerGraphics_exp_3\source\ComputerGraphics_exp_3\mesh.h(48,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Code\C\Visual Studio 2019\ComputerGraphics_exp_3\source\ComputerGraphics_exp_3\mesh.h(49,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Code\C\Visual Studio 2019\ComputerGraphics_exp_3\source\ComputerGraphics_exp_3\mesh.h(76,26): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C\Visual Studio 2019\ComputerGraphics_exp_3\source\ComputerGraphics_exp_3\mesh.h(91,23): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C\Visual Studio 2019\ComputerGraphics_exp_3\source\ComputerGraphics_exp_3\mesh.h(95,27): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  ComputerGraphics_exp_3.vcxproj -> D:\Code\C\Visual Studio 2019\ComputerGraphics_exp_3\source\ComputerGraphics_exp_3\../../bin\ComputerGraphics_exp_3.exe
